@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="821ea823-68f1-4165-bf19-a2dbf6b455f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第2章-计算机视觉入门/02_tf四则运算.ipynb" afterPath="$PROJECT_DIR$/第2章-计算机视觉入门/02_tf四则运算.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第2章-计算机视觉入门/04像素的操作.ipynb" afterPath="$PROJECT_DIR$/第2章-计算机视觉入门/04像素的操作.ipynb" />
-    </list>
+    <list default="true" id="821ea823-68f1-4165-bf19-a2dbf6b455f4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
